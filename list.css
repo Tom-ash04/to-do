@@ -1,0 +1,10 @@
+.panel.panel-default {width: 500px;
+                        margin:20%;
+                        padding: 5%;
+                        background-color: rgba(51, 204, 51, 0.8)}
+.input-group {margin: 10px 0px}
+.normal {background-color: rgb(153, 204, 0)}
+.quick {background-color: rgb(255, 51, 0)}
+.done {background-color: rgb(122, 122, 82)}
+.list-group {background-color: white}
+.list-group-item:hover {opacity: 0.9} 
